@@ -8,3 +8,4 @@ IP주소를 이용한 데이터 모델| [LINK](https://www.youtube.com/watch?v=A
 ARP 프로토콜| [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/230)
 IP 프로토콜| [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/233)
 ICMP 프로토콜| [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/234)
+라우팅 테이블 | [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/235)
