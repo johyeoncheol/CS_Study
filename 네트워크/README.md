@@ -9,3 +9,4 @@ ARP 프로토콜| [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8N
 IP 프로토콜| [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/233)
 ICMP 프로토콜| [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/234)
 라우팅 테이블 | [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/235)
+조각화 이론 | [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/237)
