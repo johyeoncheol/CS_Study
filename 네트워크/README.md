@@ -13,3 +13,4 @@ ICMP 프로토콜| [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8
 4계층 이론 | [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/240)
 UDP & TCP 개념 정리 | [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/241)
 TCP 추가 정리 | [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/243)
+NAT 와 포트 포워딩| [LINK](https://www.youtube.com/watch?v=Av9UFzl_wis&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=1) | [LINK](https://codingtalk.tistory.com/247)
