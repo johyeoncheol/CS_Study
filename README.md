@@ -5,3 +5,5 @@
 
 
 #### 2. 테크톡 정리
+[강의 URL](https://www.youtube.com/channel/UC-mOekGSesms0agFntnQang)
+
