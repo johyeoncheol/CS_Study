@@ -7,3 +7,4 @@ Web Server vs WAS| [LINK](https://www.youtube.com/watch?v=NyhbNtOq0Bc) | [LINK](
 네트워크 프록시(Proxy) & 로드 밸런서(Load Balancer)| [LINK](https://www.youtube.com/watch?v=YxwYhenZ3BE) | [LINK](https://codingtalk.tistory.com/252)
 프로세스 vs 쓰레드| [LINK](https://www.youtube.com/watch?v=YxwYhenZ3BE) | [LINK](https://codingtalk.tistory.com/254)
 빌드 용어 정리| [LINK](https://www.youtube.com/watch?v=JgRCaVwkPE8) | [LINK](https://codingtalk.tistory.com/255)
+캐시 정리| [LINK](https://www.youtube.com/watch?v=c33ojJ7kE7M) | [LINK](https://codingtalk.tistory.com/256)
