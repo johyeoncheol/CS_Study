@@ -11,3 +11,4 @@ Web Server vs WAS| [LINK](https://www.youtube.com/watch?v=NyhbNtOq0Bc) | [LINK](
 교착 상태| [LINK](https://www.youtube.com/watch?v=FXzBRD3CPlQ) | [LINK](https://codingtalk.tistory.com/259)
 OSI 7 Layer | [LINK](https://www.youtube.com/watch?v=1pfTxp25MA8) | [LINK](https://codingtalk.tistory.com/261)
 JDBC, SQLMAPPER, ORM | [LINK](https://www.youtube.com/watch?v=1pfTxp25MA8) | [LINK](https://codingtalk.tistory.com/264)
+RESTful | [LINK](https://www.youtube.com/watch?v=xY7cpMuWh4w) | [LINK](https://codingtalk.tistory.com/279)
