@@ -13,3 +13,5 @@ OSI 7 Layer | [LINK](https://www.youtube.com/watch?v=1pfTxp25MA8) | [LINK](https
 JDBC, SQLMAPPER, ORM | [LINK](https://www.youtube.com/watch?v=1pfTxp25MA8) | [LINK](https://codingtalk.tistory.com/264)
 RESTful | [LINK](https://www.youtube.com/watch?v=xY7cpMuWh4w) | [LINK](https://codingtalk.tistory.com/279)
 트랜잭션 | [LINK](https://www.youtube.com/watch?v=e9PC0sroCzc) | [LINK](https://codingtalk.tistory.com/281)
+프레임워크, 라이브러리, API | [LINK](https://www.youtube.com/watch?v=_j4u4ftWwhQ) | [LINK](https://codingtalk.tistory.com/284)
+
